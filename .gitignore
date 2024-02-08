@@ -1,2 +1,3 @@
 **/__pycachar__  
 .venv
+.pytest_cache
